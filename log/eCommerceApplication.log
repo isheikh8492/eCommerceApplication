@@ -737,3 +737,15 @@ Consider defining a bean of type 'org.springframework.security.crypto.bcrypt.BCr
 2023-10-23 14:21:50.830 DEBUG [main] com.example.demo.eCommerceApplication:20 Bean org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder loading into the application context.
 2023-10-23 14:21:50.966 DEBUG [main] org.springframework.web.filter.GenericFilterBean:241 Filter 'JWTAuthenticationVerificationFilter' configured for use
 2023-10-23 14:21:52.308 INFO  [main] org.springframework.boot.StartupInfoLogger:59 Started eCommerceApplication in 5.91 seconds (JVM running for 6.299)
+2023-10-23 19:27:50.026 INFO  [main] org.springframework.boot.StartupInfoLogger:50 Starting eCommerceApplication on Imad with PID 18728 (C:\Users\ishei\source\repos\eCommerceApplication\target\classes started by Imad in C:\Users\ishei\source\repos\eCommerceApplication)
+2023-10-23 19:27:50.028 DEBUG [main] org.springframework.boot.StartupInfoLogger:53 Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-10-23 19:27:50.029 INFO  [main] org.springframework.boot.SpringApplication:675 No active profile set, falling back to default profiles: default
+2023-10-23 19:27:54.848 DEBUG [main] com.example.demo.eCommerceApplication:20 Bean org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder loading into the application context.
+2023-10-23 19:27:55.011 DEBUG [main] org.springframework.web.filter.GenericFilterBean:241 Filter 'JWTAuthenticationVerificationFilter' configured for use
+2023-10-23 19:27:56.846 INFO  [main] org.springframework.boot.StartupInfoLogger:59 Started eCommerceApplication in 7.214 seconds (JVM running for 7.792)
+2023-10-23 19:33:40.447 INFO  [main] org.springframework.boot.StartupInfoLogger:50 Starting eCommerceApplication on Imad with PID 7100 (C:\Users\ishei\source\repos\eCommerceApplication\target\classes started by Imad in C:\Users\ishei\source\repos\eCommerceApplication)
+2023-10-23 19:33:40.450 DEBUG [main] org.springframework.boot.StartupInfoLogger:53 Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-10-23 19:33:40.451 INFO  [main] org.springframework.boot.SpringApplication:675 No active profile set, falling back to default profiles: default
+2023-10-23 19:33:44.998 DEBUG [main] com.example.demo.eCommerceApplication:20 Bean org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder loading into the application context.
+2023-10-23 19:33:45.142 DEBUG [main] org.springframework.web.filter.GenericFilterBean:241 Filter 'JWTAuthenticationVerificationFilter' configured for use
+2023-10-23 19:33:46.555 INFO  [main] org.springframework.boot.StartupInfoLogger:59 Started eCommerceApplication in 6.524 seconds (JVM running for 7.027)
